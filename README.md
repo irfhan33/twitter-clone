@@ -14,4 +14,4 @@
 
 <br>
 
-[![Stisla Preview](https://ibb.co/kJGPFNf)](https://twitter-clone-9b108.web.app/)
+[![Twitter Clone Preview](https://i.ibb.co/BGfYR0x/image.png)](https://twitter-clone-9b108.web.app/)
