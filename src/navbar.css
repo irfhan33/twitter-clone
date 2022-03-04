@@ -1,0 +1,12 @@
+.navbar {
+  padding: 14px;
+  position: sticky;
+  top: 0;
+  background-color: black;
+  z-index: 999;
+}
+
+.navbar > h1 {
+  font-size: 20px;
+  margin: 0;
+}

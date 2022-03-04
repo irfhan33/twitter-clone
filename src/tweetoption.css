@@ -1,0 +1,16 @@
+.tweetoption {
+  display: flex;
+  align-items: center;
+}
+
+.tweetoption__icon {
+  width: 20px !important;
+  height: 20px !important;
+  color: lightgrey;
+  margin-right: 12px;
+}
+
+.tweetoption > span {
+  font-size: 14px;
+  color: lightgrey;
+}

@@ -1,0 +1,39 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  flex: 0.2;
+  position: sticky !important;
+  top: 0;
+  justify-content: space-between;
+  min-height: 550px;
+  height: 100vh;
+  padding: 0 20px;
+}
+
+.avatar {
+  cursor: pointer;
+}
+
+.avatar__container {
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 18px;
+  display: flex;
+  cursor: pointer;
+}
+
+.avatar__container:hover {
+  background-color: rgba(223, 208, 208, 0.1);
+}
+
+.detaill > span {
+  color: white;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.detaill > p {
+  font-size: 15px;
+  font-weight: 300;
+  color: lightgrey;
+}
