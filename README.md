@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://twitter-clone-9b108.web.app/">
-    <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter logo" width="300" style="object-fit: contain">
+    <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter logo" width="100" style="object-fit: contain">
   </a>
 </p>
 
